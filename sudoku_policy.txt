@@ -1,0 +1,7 @@
+Privacy Policy: 
+This Privacy Policy defines defines why we need network and read/wirte SDK permission..
+
+Personal Data:
+Sudoku respects your privacy rights.
+Sudoku do not collect any personal user data. 
+This application need these permissions when download pluzz from network.
